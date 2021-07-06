@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-While I'm still figuring out what to put here, consider checking out some [cool stuff](https://conwaylife.com/) :)
-
 <!--
 **chebro/chebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
